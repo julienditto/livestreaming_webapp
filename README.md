@@ -1,1 +1,1 @@
-# livestreaming_webapp
+# A Flask web application that uses the YouTube Live Streaming and Google Cloud IoT Core APIs to automate streaming live video from Raspberry Pi to YouTube. Protocols Google OAuth2 and MQTT are used to interact with the APIs.
