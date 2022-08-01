@@ -1,0 +1,18 @@
+body {
+    background-image: url('/static/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+.content {
+    max-width: 640px;
+    margin: auto;
+    margin-top: 180px;
+    background: white;
+    padding: 10px;
+}
+.video {
+    max-width: 640px;
+    margin: auto;
+    margin-top: 180px;
+}
